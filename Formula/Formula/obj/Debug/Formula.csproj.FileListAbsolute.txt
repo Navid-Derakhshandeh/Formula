@@ -1,0 +1,16 @@
+C:\Users\N.D\Desktop\test5\Formula\Formula\bin\Debug\Formula.exe.config
+C:\Users\N.D\Desktop\test5\Formula\Formula\bin\Debug\Formula.exe
+C:\Users\N.D\Desktop\test5\Formula\Formula\bin\Debug\Formula.pdb
+C:\Users\N.D\Desktop\test5\Formula\Formula\obj\Debug\Formula.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\test5\Formula\Formula\obj\Debug\Formula.Main.resources
+C:\Users\N.D\Desktop\test5\Formula\Formula\obj\Debug\Formula.Properties.Resources.resources
+C:\Users\N.D\Desktop\test5\Formula\Formula\obj\Debug\Formula.csproj.GenerateResource.cache
+C:\Users\N.D\Desktop\test5\Formula\Formula\obj\Debug\Formula.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\test5\Formula\Formula\obj\Debug\Formula.exe
+C:\Users\N.D\Desktop\test5\Formula\Formula\obj\Debug\Formula.pdb
+C:\Users\N.D\Desktop\test5\Formula\Formula\obj\Debug\Formula.Maximum_Path_Loss_And_Distance.resources
+C:\Users\N.D\Desktop\test5\Formula\Formula\obj\Debug\Formula.RCVP.resources
+C:\Users\N.D\Desktop\test5\Formula\Formula\bin\Debug\Formula.exe.manifest
+C:\Users\N.D\Desktop\test5\Formula\Formula\bin\Debug\Formula.application
+C:\Users\N.D\Desktop\test5\Formula\Formula\obj\Debug\Formula.exe.manifest
+C:\Users\N.D\Desktop\test5\Formula\Formula\obj\Debug\Formula.application
