@@ -1,0 +1,65 @@
+﻿@page "/rcvp"
+
+<h3>RCVP</h3>
+
+Voltage <input @bind="V1" /><br><br>
+
+Current <input @bind="I1" /><br><br>
+
+Resistance<input @bind="R1" /><br><br>
+
+
+
+<p>Voltage Equal By:@V</p><br><br>
+
+<p>Current Equal By:@I</p><br><br>
+
+<p>Resistance Equal By:@R</p><br><br>
+
+<p>Power Equal By:@P</p><br><br>
+
+
+<button class="btn btn-primary" @onclick="Voltage">Voltage</button><br><br>
+
+<button class="btn btn-primary" @onclick="Current">Current</button><br><br>
+
+<button class="btn btn-primary" @onclick="Resistance">Resistance</button><br><br>
+
+<button class="btn btn-primary" @onclick="Power">Power</button><br><br>
+
+@code {
+
+    private double V1 { get; set; }
+
+    private double I1 { get; set; }
+
+    private double R1 { get; set; }
+
+    private double V { get; set; }
+
+    private double I { get; set; }
+
+    private double R { get; set; }
+
+    private double P { get; set; }
+
+    private void Voltage()
+    {
+        V = I1 * R1;
+
+    }
+    private void Current()
+    {
+        I = V1 / R1;
+
+    }
+    private void Resistance()
+    {
+        R = V1 / I1;
+    }
+    private void Power()
+    {
+        P = I1 * V1;
+    }
+
+}

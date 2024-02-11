@@ -1,0 +1,30 @@
+﻿@page "/ee"
+
+
+<h3>Elastic-Energy</h3>
+
+Spring Constant <input @bind="K1" /><br><br>
+
+Change in Position <input @bind="X1" /><br><br>
+
+<p>Elastic Energy Equal By:@U</p><br><br>
+
+<button class="btn btn-primary" @onclick="Elastic">Elastic Energy</button><br><br>
+
+
+@code {
+
+    private double K1 { get; set; }
+
+    private double X1 { get; set; }
+
+    private double U { get; set; }
+
+    private void Elastic()
+    {
+        U = (0.5 * K1) * (X1 * X1);
+
+    }
+
+}
+
